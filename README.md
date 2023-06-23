@@ -12,6 +12,7 @@ A framework of a game made with Unity and C#
     <li>Trade and Barter: Engage in trade with other characters and factions, negotiate prices, and build your wealth to become the most prosperous pirate in Libertalia.</li>
   </ul>
   
+<b>Game Link: https://drive.google.com/drive/folders/1X-XPu4bEQa9-MSaay8Bczyn3pieLZiFi?usp=sharing<b>
   <h2>Tech Stack</h2>
   <ul>
     <li>Unity3D: The game is developed using the Unity3D game engine, which provides a powerful and versatile platform for creating rich and interactive gaming experiences.</li>
